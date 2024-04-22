@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px) {
+   
+    body {
+        font-size: 14px;
+    }
+    .container {
+        width: 100%; /
+    }
+    nav ul li {
+        display: block;
+        margin-right: 0; 
+    }
+}
